@@ -178,4 +178,5 @@ fetch(todosUrl)
 	// sort metodu kullanılarak sıralama yapılacak
 	// sıralanmış todos'todus içerisine atılacak
 	// renderTodos metodu çalıştırılacak.
+
 	
