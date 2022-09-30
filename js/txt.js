@@ -1,4 +1,4 @@
-HTTP Durum Kodları Rehberi
+HTTP Durum Kodları 
 ________________________________________
 
 - HTTP Durum Kodları (Status Codes) Nedir?
